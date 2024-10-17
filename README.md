@@ -14,8 +14,8 @@ This HR Dashboard is designed to provide comprehensive insights into employee da
    * Displays the number of employees hired and currently active within each department.
    * Provides an overview of the total number of employees in each department.
    * Summarizes department-wise salary details.
-  
-##Technology Stack
+       
+  ##Technology Stack
   * Power BI: For data visualization and dashboard creation.
   * DAX: For calculating measures and aggregating data.
   * Power Query: For data transformation and cleaning processes.
